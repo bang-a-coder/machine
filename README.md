@@ -1,3 +1,1 @@
-# Welcome to the machine
-
-## It will learn
+# Welcome to the machine. It will learn
